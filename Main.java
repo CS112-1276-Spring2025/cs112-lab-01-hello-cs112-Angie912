@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to CS112! from Angelina.");
         System.out.println("I will tell you a bit about myself!");
+        System.out.println("Hi im a change!");
 
         Main.animals();
         //String writer, String illustrator, String colorist, String title, int issueNume
